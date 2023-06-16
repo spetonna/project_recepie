@@ -1,0 +1,17 @@
+*{
+    background-color: blanchedalmond;
+    font-family: serif;
+
+}
+h1{
+    text-align: center;
+}
+
+div.links{
+    text-align: center;
+    font-family: serif;
+    list-style:lower-greek;
+    list-style-position:inside;
+   }
+
+
